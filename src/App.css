@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.App .list-wrapper {
+  text-align:left;
+  max-width:50%;
+}
+
+code {
+  font-family:monospace;
+  border:1px solid lightgrey;
+  border-radius:2px;
+  padding-left:.25rem;
+  padding-right:.25rem;
+}
